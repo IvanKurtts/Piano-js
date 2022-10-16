@@ -1,2 +1,2 @@
 # Piano-js
-https://fancy-kitten-stepikproject.netlify.app/
+piano-js-project.netlify.app
